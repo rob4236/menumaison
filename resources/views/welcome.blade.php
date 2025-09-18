@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+aison<!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Menu Maison...
                 </div>
 
                 <div class="links">
