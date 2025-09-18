@@ -1,4 +1,4 @@
-name: sample-laravel
+name: menu-maison
 services:
 - environment_slug: php
   name: web
