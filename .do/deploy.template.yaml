@@ -1,12 +1,12 @@
 spec:
-  name: menu-maison
+  name: menumaison
   services:
   - environment_slug: php
     git:
       branch: main
-      repo_clone_url: https://github.com/rob4236/menu-maison.git
+      repo_clone_url: https://github.com/rob4236/menumaison.git
     envs:
     - key: APP_KEY
       value: "base64:UdAH2B63rlotjrkSSsj3Hppy4gbfr+OeHvtSdF9r9q8="
-    name: menu-maison
+    name: menumaison
     run_command: heroku-php-apache2 public/

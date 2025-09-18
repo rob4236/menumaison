@@ -1,4 +1,4 @@
-name: menu-maison
+name: menumaison
 services:
 - environment_slug: php
   name: web
