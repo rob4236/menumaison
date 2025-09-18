@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Menu Maison
+                    Menu Maison.
                 </div>
 
                 <div class="links">
