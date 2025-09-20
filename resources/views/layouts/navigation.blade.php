@@ -11,9 +11,9 @@
         </button>
 
         <!-- App name on right side -->
-        {{-- <span class="navbar-text text-white ms-auto">
+        <span class="navbar-text text-white ms-auto">
             {{ config('app.name', 'Menu Maison') }}
-        </span> --}}
+        </span>
     </div>
 </nav>
 
